@@ -1,6 +1,6 @@
 # open_pay
 to make a pay roll using python within 10 days 
-## Demo - demonstrates an application and tests
+## open_pay - free open source for every one
 
 This is an application by [Coveros](https://www.coveros.com/) to demonstrate good
 software practices.  As we say in agile... _Working software over comprehensive 
